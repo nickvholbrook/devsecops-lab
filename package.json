@@ -1,0 +1,18 @@
+{
+  "name": "devsecops-lab",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for DevSecOps testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
