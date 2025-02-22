@@ -16,6 +16,7 @@ jobs:
       contents: write
       pull-requests: write
       repository-projects: write    
+      security-events: write      
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
